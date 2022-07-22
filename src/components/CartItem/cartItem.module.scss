@@ -1,0 +1,110 @@
+.wrapperBlock {
+  background: #eeeeee;
+  border-radius: 20px;
+  width: 100%;
+  padding: 20px 22px;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  margin-bottom: 5px;
+
+  img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-right: 22px;
+  }
+
+  h3 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #282828;
+    margin-left: -50px;
+  }
+
+  .price {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    color: #282828;
+  }
+
+  .wrapperRight{
+    display: flex;
+    width: 320px;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .count {
+    display: flex;
+    width: 31%;
+    align-items: center;
+    justify-content: space-between;
+
+    button {
+      border-color: #787878;
+
+      svg {
+        path {
+          fill: #787878;
+        }
+      }
+
+      &:hover {
+        border-color: #282828;
+        background-color: #282828;
+        svg {
+          path {
+            fill: #fff;
+          }
+        }
+      }
+
+      &:disabled {
+        border-color: #787878;
+        pointer-events: none;
+        opacity: 0.4;
+
+        svg path {
+          fill: #787878;
+        }
+      }
+    }
+  }
+
+  button {
+    cursor: pointer;
+    border: none;
+    border: 1px solid #787878;
+    border-width: 1.5px;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    transition: all 0.2s;
+    opacity: 0.8;
+  }
+
+  .buttonRemove {
+    border-color: #787878;
+
+    svg path {
+      fill: #787878;
+    }
+
+    &:hover {
+      border-color: #282828;
+      background-color: #282828;
+      svg path {
+        fill: #fff;
+      }
+    }
+    svg {
+      transform: rotate(45deg);
+    }
+  }
+}

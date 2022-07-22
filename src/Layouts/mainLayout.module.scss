@@ -1,0 +1,13 @@
+.wrapper {
+  width: calc(100vw - 100px);
+  max-width: 1400px;
+  margin: 0 auto;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+}
+
+.container {
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 40px 0;
+}

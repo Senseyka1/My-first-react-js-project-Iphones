@@ -1,0 +1,29 @@
+.searchInput {
+  width: 350px;
+  background-color: transparent;
+  padding: 10px 18px;
+  border-radius: 10px;
+  border: 1px solid #cccccc;
+  margin-right: 70px;
+  outline: none;
+  position: relative;
+  
+  &:placeholder {
+    color: #959595;
+  }
+  
+}
+
+.clearInput {
+  position: absolute;
+  right: 313px;
+  font-size: 27px;
+  top: 86px;
+  cursor: pointer;
+  transform: rotate(45deg);
+  opacity: 0.5;
+
+  &:hover {
+    opacity: 1;
+  }
+}

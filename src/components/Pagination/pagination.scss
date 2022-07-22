@@ -1,0 +1,37 @@
+.page__list {
+  display: flex;
+  justify-content: center;
+
+  button {
+    --size: 32px;
+    max-width: auto;
+    min-width: var(--size);
+    height: var(--size);
+    margin: 40px 6px 0;
+    border-radius: 6px;
+    // color: #fff;
+    color: #000;
+    background: #eeeeee;
+    // background: #202020;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 0 6px;
+    border: none;
+    transition: all 0.1s;
+
+    &:hover {
+      background: lighten(#282828, 30%);
+      color: #fff;
+    }
+    &:active {
+      background: lighten(#282828, 20%);
+    }
+    &.active {
+      // background: lighten(#202020, 25%);
+      background: #282828;
+      color: #fff;
+    }
+  }
+}

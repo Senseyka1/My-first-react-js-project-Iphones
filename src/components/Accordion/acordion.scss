@@ -1,0 +1,43 @@
+.accordion {
+  &__heading {
+    background: #eeeeee;
+    width: 192px;
+    height: 40px;
+    border-radius: 7px;
+    font-size: 18px;
+    line-height: 39px;
+    padding: 0px 10px !important;
+    margin-bottom: 20px;
+    
+    cursor: pointer;
+    position: relative;
+
+    &.active {
+      border-radius: 7px 7px 0px 0px;
+    }
+  }
+}
+
+.accordion__list {
+  width: 192px;
+  margin-top: -20px !important;
+  background: #eeeeee;
+  border-radius: 0 0 7px 7px;
+  margin-bottom: 15px !important;
+  padding: 8px 0 !important;
+
+  .accordion__item {
+    padding: 8px 24px;
+    cursor: pointer;
+
+    &.active {
+      background: #282828;
+      color: #fff;
+      font-weight: 500;
+    }
+
+    span {
+      margin-left: auto;
+    }
+  }
+}

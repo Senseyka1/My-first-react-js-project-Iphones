@@ -1,0 +1,117 @@
+.mainIphoneBlock {
+  // border: 1px solid transparent;
+  border-radius: 7px;
+  cursor: pointer;
+  transition: all 0.3s;
+  position: relative;
+  &.active {
+    border-bottom: none;
+    // border: 1px solid #333;
+  }
+  .wrapperIphoneBlock {
+    width: 240px;
+    height: 346px;
+    padding: 30px 20px 25px;
+    background-color: #eeeeee;
+    border-radius: 7px;
+    z-index: 1;
+
+    // transition: all 0.1s;
+
+    // &.active {
+    //   border-radius: 7px 7px 0px 0px;
+    // }
+
+    .footer {
+      display: none;
+    }
+
+    // &:hover {
+    //   .footer {
+    //     display: block;
+    //   }
+    //
+    // }
+
+    img {
+      width: 160px;
+      height: 160px;
+      margin: 0 auto;
+      object-fit: cover;
+      margin-bottom: 30px;
+      text-align: center;
+    }
+
+    h3 {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 19px;
+      color: #282828;
+      margin-bottom: 20px;
+      text-align: center;
+      padding: 0 1px;
+    }
+
+    .wrapperIphoneBlock__line {
+      border: 1px solid #282828;
+      border-radius: 1px;
+      margin-bottom: 18px;
+    }
+
+    span {
+      display: block;
+      font-weight: 500;
+      font-size: 19px;
+      line-height: 21px;
+      color: #c32a2c;
+      text-align: right;
+    }
+  }
+
+  .wrapperIphoneBlock__buy {
+    background-color: #eeeeee;
+    // border: 1px solid transparent;
+    border-radius: 0px 0px 7px 7px;
+    padding: 0px 20px 14px;
+    transition: transform .10s;
+    position: absolute;
+    margin-top: -50px;
+    z-index: 20;
+    width: 240px;
+    // transform: translateY(-1000px);
+
+    // &.active {
+    //   transform: translateY(-10px);
+    //   border: 1px solid #333;
+    //   border-top: none;
+    // }
+
+    .wrapper__success {
+      display: flex;
+      justify-content: center;
+      padding: 9.5px;
+      background-color: #282828;
+      .img__successful {
+        width: 17px;
+        filter: invert(88%) sepia(49%) saturate(0%) hue-rotate(298deg) brightness(107%) contrast(101%);
+      }
+    }
+
+    button {
+      width: 100%;
+      border: 1px solid #282828;
+      padding: 5px;
+      background-color: #282828;
+      color: #fff;
+      cursor: pointer;
+
+      &:hover {
+        background: lighten(#282828, 8%);
+      }
+
+      &:active {
+        background: darken(#282828, 5%);
+      }
+    }
+  }
+}

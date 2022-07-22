@@ -1,0 +1,55 @@
+.sort__popup {
+  position: relative;
+  display: inline-block;
+
+  svg {
+    transition: all 0.2s;
+
+    &.active {
+      transform: rotate(180deg);
+    }
+  }
+
+  .sort__title {
+    margin-left: 3px;
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .sort__text {
+    color: #6a6a6a;
+    border-bottom: 1px dashed #eee;
+    cursor: pointer;
+  }
+
+  .sort__list {
+    background: #ededed;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 8px 0px;
+    position: absolute;
+    top: 37px;
+    right: 0;
+
+    .sort__item {
+      padding: 7px 18px;
+      font-size: 15px;
+      list-style: none;
+      cursor: pointer;
+
+      &.active,
+      &:hover {
+        background: rgb(162, 162, 162);
+        color: rgb(246, 239, 239);
+      }
+
+      &.active {
+        background: #282828;
+        color: #fff;
+        font-weight: 500;
+      }
+    }
+  }
+}

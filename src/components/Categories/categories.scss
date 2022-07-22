@@ -1,0 +1,25 @@
+.category__list {
+  display: flex;
+
+  .category__item {
+    margin-right: 20px;
+    background: #eeeeee;
+    border-radius: 30px;
+    padding: 8px 28px;
+    cursor: pointer;
+    border: 2px solid transparent;
+    transition: all 0.1s;
+
+    &:hover {
+      background: lighten(#282828, 20%);
+      color: #fff;
+    }
+    &:active {
+      background: lighten(#282828, 25%);
+    }
+    &.active {
+      background: #282828;
+      color: #fff;
+    }
+  }
+}

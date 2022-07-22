@@ -1,0 +1,766 @@
+[
+	{
+		"id": "1",
+		"price": 40339,
+		"name": "Apple iPhone 13 Pro Max",
+		"img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR8NHNS_FkZ5KqJJ1BYGdL0Su8uxQKQfJb3NTPePSu_empjNG5mksg&usqp=CAc",
+		"memory": 128,
+		"model": 1,
+		"color": "Green",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "2",
+		"price": 47137,
+		"name": "Apple iPhone 13 Pro Max",
+		"img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR8NHNS_FkZ5KqJJ1BYGdL0Su8uxQKQfJb3NTPePSu_empjNG5mksg&usqp=CAc",
+		"memory": 256,
+		"model": 1,
+		"color": "Green",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "3",
+		"price": 56199,
+		"name": "Apple iPhone 13 Pro Max",
+		"img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR8NHNS_FkZ5KqJJ1BYGdL0Su8uxQKQfJb3NTPePSu_empjNG5mksg&usqp=CAc",
+		"memory": 512,
+		"model": 1,
+		"color": "Green",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "4",
+		"price": 35936,
+		"name": "Apple iPhone 13 Pro",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-HXfsP2pxHpz2L9kzJ4-g5V86T8C85Ath__UN5ZIpRFsT9vru6FQ79I9vy3V5&usqp=CAc",
+		"memory": 128,
+		"model": 1,
+		"color": "Gold",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "5",
+		"price": 45999,
+		"name": "Apple iPhone 13 Pro",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-HXfsP2pxHpz2L9kzJ4-g5V86T8C85Ath__UN5ZIpRFsT9vru6FQ79I9vy3V5&usqp=CAc",
+		"memory": 256,
+		"model": 1,
+		"color": "Gold",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "6",
+		"price": 51999,
+		"name": "Apple iPhone 13 Pro",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-HXfsP2pxHpz2L9kzJ4-g5V86T8C85Ath__UN5ZIpRFsT9vru6FQ79I9vy3V5&usqp=CAc",
+		"memory": 512,
+		"model": 1,
+		"color": "Gold",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "7",
+		"price": 31699,
+		"name": "Apple iPhone 13",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHndwovPB5JDu9PKXZ6SwWvDq0gBt-ivrv-ExzZUpbK9-PIRIZip5Npq5nES5DP2d4jFlS0VqdXA&usqp=CAc",
+		"memory": 128,
+		"model": 1,
+		"color": "Midnight",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "8",
+		"price": 33799,
+		"name": "Apple iPhone 13",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHndwovPB5JDu9PKXZ6SwWvDq0gBt-ivrv-ExzZUpbK9-PIRIZip5Npq5nES5DP2d4jFlS0VqdXA&usqp=CAc",
+		"memory": 256,
+		"model": 1,
+		"color": "Midnight",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "9",
+		"price": 35999,
+		"name": "Apple iPhone 13",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHndwovPB5JDu9PKXZ6SwWvDq0gBt-ivrv-ExzZUpbK9-PIRIZip5Npq5nES5DP2d4jFlS0VqdXA&usqp=CAc",
+		"memory": 512,
+		"model": 1,
+		"color": "Midnight",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "10",
+		"price": 28793,
+		"name": "Apple iPhone 13 mini",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5slcwSefG_DIaIkxk1hytl_2q0jNgRov9BNKjfC_L5twGohrmhJ8&usqp=CAc",
+		"memory": 128,
+		"model": 1,
+		"color": "Green",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "11",
+		"price": 31399,
+		"name": "Apple iPhone 13 mini",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5slcwSefG_DIaIkxk1hytl_2q0jNgRov9BNKjfC_L5twGohrmhJ8&usqp=CAc",
+		"memory": 256,
+		"model": 1,
+		"color": "Green",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "12",
+		"price": 35799,
+		"name": "Apple iPhone 13 mini",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5slcwSefG_DIaIkxk1hytl_2q0jNgRov9BNKjfC_L5twGohrmhJ8&usqp=CAc",
+		"memory": 512,
+		"model": 1,
+		"color": "Green",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "13",
+		"price": 35699,
+		"name": "Apple iPhone 12 Pro Max",
+		"img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRMneQyS0UVKTe7HVolr22Ww0dEupSvV2iqOJpHN04_ITWHhbgUqMCwGh_w-mKe&usqp=CAc",
+		"memory": 128,
+		"model": 2,
+		"color": "Graphite",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "13",
+		"price": 45399,
+		"name": "Apple iPhone 12 Pro Max",
+		"img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRMneQyS0UVKTe7HVolr22Ww0dEupSvV2iqOJpHN04_ITWHhbgUqMCwGh_w-mKe&usqp=CAc",
+		"memory": 256,
+		"model": 2,
+		"color": "Graphite",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "14",
+		"price": 48399,
+		"name": "Apple iPhone 12 Pro Max",
+		"img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRMneQyS0UVKTe7HVolr22Ww0dEupSvV2iqOJpHN04_ITWHhbgUqMCwGh_w-mKe&usqp=CAc",
+		"memory": 512,
+		"model": 2,
+		"color": "Graphite",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "14",
+		"price": 36999,
+		"name": "Apple iPhone 12 Pro",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT7ddhdltzwhHfogVAipnQIqWjz51a0RINInxOgM1G-l5vG5_1COw&usqp=CAc",
+		"memory": 128,
+		"model": 2,
+		"color": "Blue",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "15",
+		"price": 38499,
+		"name": "Apple iPhone 12 Pro",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT7ddhdltzwhHfogVAipnQIqWjz51a0RINInxOgM1G-l5vG5_1COw&usqp=CAc",
+		"memory": 256,
+		"model": 2,
+		"color": "Blue",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "16",
+		"price": 39399,
+		"name": "Apple iPhone 12 Pro",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT7ddhdltzwhHfogVAipnQIqWjz51a0RINInxOgM1G-l5vG5_1COw&usqp=CAc",
+		"memory": 512,
+		"model": 2,
+		"color": "Blue",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "17",
+		"price": 26999,
+		"name": "Apple iPhone 12",
+		"img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdIyzOasA_F_oFW9P08jMTATnkeWIDQ4lsn6mLXgYenvu6bRjXd13AVxfm_SF2fA&usqp=CAc",
+		"memory": 64,
+		"model": 2,
+		"color": "Blue",
+		"memories": [
+			{ "id": 0, "memory": 64 },
+			{ "id": 1, "memory": 128 },
+			{ "id": 2, "memory": 256 }
+		]
+	},
+	{
+		"id": "18",
+		"price": 27999,
+		"name": "Apple iPhone 12",
+		"img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdIyzOasA_F_oFW9P08jMTATnkeWIDQ4lsn6mLXgYenvu6bRjXd13AVxfm_SF2fA&usqp=CAc",
+		"memory": 128,
+		"model": 2,
+		"color": "Blue",
+		"memories": [
+			{ "id": 0, "memory": 64 },
+			{ "id": 1, "memory": 128 },
+			{ "id": 2, "memory": 256 }
+		]
+	},
+	{
+		"id": "19",
+		"price": 31999,
+		"name": "Apple iPhone 12",
+		"img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdIyzOasA_F_oFW9P08jMTATnkeWIDQ4lsn6mLXgYenvu6bRjXd13AVxfm_SF2fA&usqp=CAc",
+		"memory": 256,
+		"model": 2,
+		"color": "Blue",
+		"memories": [
+			{ "id": 0, "memory": 64 },
+			{ "id": 1, "memory": 128 },
+			{ "id": 2, "memory": 256 }
+		]
+	},
+	{
+		"id": "20",
+		"price": 22499,
+		"name": "Apple iPhone 12 mini",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXgvwB6KXy20k1lqb8et9nSvD1E-8MipPezSqULRCAuschFFRQxCTGkY43p-28&usqp=CAc",
+		"memory": 128,
+		"model": 2,
+		"color": "Black",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "21",
+		"price": 24999,
+		"name": "Apple iPhone 12 mini",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXgvwB6KXy20k1lqb8et9nSvD1E-8MipPezSqULRCAuschFFRQxCTGkY43p-28&usqp=CAc",
+		"memory": 256,
+		"model": 2,
+		"color": "Black",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "22",
+		"price": 28999,
+		"name": "Apple iPhone 12 mini",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXgvwB6KXy20k1lqb8et9nSvD1E-8MipPezSqULRCAuschFFRQxCTGkY43p-28&usqp=CAc",
+		"memory": 512,
+		"model": 2,
+		"color": "Black",
+		"memories": [
+			{ "id": 0, "memory": 128 },
+			{ "id": 1, "memory": 256 },
+			{ "id": 2, "memory": 512 }
+		]
+	},
+	{
+		"id": "23",
+		"price": 24499,
+		"name": "Apple iPhone 11 Pro Max",
+		"img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFbvMQuRLH3ShJOaHoupsh12Xa0w6SFaasn5lRsG3bfoWPIZOu3pTQgrd_CRyl3cJCmtYrq0Z42A&usqp=CAc",
+		"memory": 64,
+		"model": 3,
+		"color": "Black",
+		"memories": [
+			{ "id": 0, "memory": 64 },
+			{ "id": 1, "memory": 128 },
+			{ "id": 2, "memory": 256 }
+		]
+	},
+	{
+		"id": "24",
+		"price": 27999,
+		"name": "Apple iPhone 11 Pro Max",
+		"img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFbvMQuRLH3ShJOaHoupsh12Xa0w6SFaasn5lRsG3bfoWPIZOu3pTQgrd_CRyl3cJCmtYrq0Z42A&usqp=CAc",
+		"memory": 128,
+		"model": 3,
+		"color": "Black",
+		"memories": [
+			{ "id": 0, "memory": 64 },
+			{ "id": 1, "memory": 128 },
+			{ "id": 2, "memory": 256 }
+		]
+	},
+	{
+		"id": "25",
+		"price": 30999,
+		"name": "Apple iPhone 11 Pro Max",
+		"img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFbvMQuRLH3ShJOaHoupsh12Xa0w6SFaasn5lRsG3bfoWPIZOu3pTQgrd_CRyl3cJCmtYrq0Z42A&usqp=CAc",
+		"memory": 256,
+		"model": 3,
+		"color": "Black",
+		"memories": [
+			{ "id": 0, "memory": 64 },
+			{ "id": 1, "memory": 128 },
+			{ "id": 2, "memory": 256 }
+		]
+	},
+	{
+		"id": "26",
+		"price": 23999,
+		"name": "Apple iPhone 11 Pro",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXgvwB6KXy20k1lqb8et9nSvD1E-8MipPezSqULRCAuschFFRQxCTGkY43p-28&usqp=CAc",
+		"memory": 64,
+		"model": 3,
+		"color": "Black",
+		"memories": [
+			{ "id": 0, "memory": 64 },
+			{ "id": 1, "memory": 128 },
+			{ "id": 2, "memory": 256 }
+		]
+	},
+	{
+		"id": "27",
+		"price": 25499,
+		"name": "Apple iPhone 11 Pro",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXgvwB6KXy20k1lqb8et9nSvD1E-8MipPezSqULRCAuschFFRQxCTGkY43p-28&usqp=CAc",
+		"memory": 128,
+		"model": 3,
+		"color": "Black",
+		"memories": [
+			{ "id": 0, "memory": 64 },
+			{ "id": 1, "memory": 128 },
+			{ "id": 2, "memory": 256 }
+		]
+	},
+	{
+		"id": "28",
+		"price": 28999,
+		"name": "Apple iPhone 11 Pro",
+		"img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXgvwB6KXy20k1lqb8et9nSvD1E-8MipPezSqULRCAuschFFRQxCTGkY43p-28&usqp=CAc",
+		"memory": 256,
+		"model": 3,
+		"color": "Black",
+		"memories": [
+			{ "id": 0, "memory": 64 },
+			{ "id": 1, "memory": 128 },
+			{ "id": 2, "memory": 256 }
+		]
+	},
+	{
+		"id": "29",
+		"price": 20384,
+		"name": "Apple iPhone 11",
+		"img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSJ-iGRy-oO7wTgxVl1-kSu74VfhUMJ8KqZy_mumngPKXRpol3Dr_aotV-39ecOHg&usqp=CAc",
+		"memory": 64,
+		"model": 3,
+		"color": "Red",
+		"memories": [
+			{ "id": 0, "memory": 64 },
+			{ "id": 1, "memory": 128 },
+			{ "id": 2, "memory": 256 }
+		]
+	},
+	{
+		"id": "29",
+		"price": 22999,
+		"name": "Apple iPhone 11",
+		"img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSJ-iGRy-oO7wTgxVl1-kSu74VfhUMJ8KqZy_mumngPKXRpol3Dr_aotV-39ecOHg&usqp=CAc",
+		"memory": 128,
+		"model": 3,
+		"color": "Red",
+		"memories": [
+			{ "id": 0, "memory": 64 },
+			{ "id": 1, "memory": 128 },
+			{ "id": 2, "memory": 256 }
+		]
+	},
+	{
+		"id": "29",
+		"price": 25399,
+		"name": "Apple iPhone 11",
+		"img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSJ-iGRy-oO7wTgxVl1-kSu74VfhUMJ8KqZy_mumngPKXRpol3Dr_aotV-39ecOHg&usqp=CAc",
+		"memory": 256,
+		"model": 3,
+		"color": "Red",
+		"memories": [
+			{ "id": 0, "memory": 64 },
+			{ "id": 1, "memory": 128 },
+			{ "id": 2, "memory": 256 }
+		]
+	}
+]
+
+
+
+[
+	{
+	 "id": "1",
+	 "price": 40339,
+	 "name": "Apple iPhone 13 Pro Max",
+	 "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR8NHNS_FkZ5KqJJ1BYGdL0Su8uxQKQfJb3NTPePSu_empjNG5mksg&usqp=CAc",
+	 "memory": 128,
+	 "model": 1,
+	 "color": "Green"
+	},
+	{
+	 "id": "2",
+	 "price": 47137,
+	 "name": "Apple iPhone 13 Pro Max",
+	 "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR8NHNS_FkZ5KqJJ1BYGdL0Su8uxQKQfJb3NTPePSu_empjNG5mksg&usqp=CAc",
+	 "memory": 256,
+	 "model": 1,
+	 "color": "Green"
+	},
+	{
+	 "id": "3",
+	 "price": 56199,
+	 "name": "Apple iPhone 13 Pro Max",
+	 "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR8NHNS_FkZ5KqJJ1BYGdL0Su8uxQKQfJb3NTPePSu_empjNG5mksg&usqp=CAc",
+	 "memory": 512,
+	 "model": 1,
+	 "color": "Green"
+	},
+	{
+	 "id": "4",
+	 "price": 35936,
+	 "name": "Apple iPhone 13 Pro",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-HXfsP2pxHpz2L9kzJ4-g5V86T8C85Ath__UN5ZIpRFsT9vru6FQ79I9vy3V5&usqp=CAc",
+	 "memory": 128,
+	 "model": 1,
+	 "color": "Gold"
+	},
+	{
+	 "id": "5",
+	 "price": 45999,
+	 "name": "Apple iPhone 13 Pro",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-HXfsP2pxHpz2L9kzJ4-g5V86T8C85Ath__UN5ZIpRFsT9vru6FQ79I9vy3V5&usqp=CAc",
+	 "memory": 256,
+	 "model": 1,
+	 "color": "Gold"
+	},
+	{
+	 "id": "6",
+	 "price": 51999,
+	 "name": "Apple iPhone 13 Pro",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-HXfsP2pxHpz2L9kzJ4-g5V86T8C85Ath__UN5ZIpRFsT9vru6FQ79I9vy3V5&usqp=CAc",
+	 "memory": 512,
+	 "model": 1,
+	 "color": "Gold"
+	},
+	{
+	 "id": "7",
+	 "price": 31699,
+	 "name": "Apple iPhone 13",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHndwovPB5JDu9PKXZ6SwWvDq0gBt-ivrv-ExzZUpbK9-PIRIZip5Npq5nES5DP2d4jFlS0VqdXA&usqp=CAc",
+	 "memory": 128,
+	 "model": 1,
+	 "color": "Midnight"
+	},
+	{
+	 "id": "8",
+	 "price": 33799,
+	 "name": "Apple iPhone 13",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHndwovPB5JDu9PKXZ6SwWvDq0gBt-ivrv-ExzZUpbK9-PIRIZip5Npq5nES5DP2d4jFlS0VqdXA&usqp=CAc",
+	 "memory": 256,
+	 "model": 1,
+	 "color": "Midnight"
+	},
+	{
+	 "id": "9",
+	 "price": 35999,
+	 "name": "Apple iPhone 13",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHndwovPB5JDu9PKXZ6SwWvDq0gBt-ivrv-ExzZUpbK9-PIRIZip5Npq5nES5DP2d4jFlS0VqdXA&usqp=CAc",
+	 "memory": 512,
+	 "model": 1,
+	 "color": "Midnight"
+	},
+	{
+	 "id": "10",
+	 "price": 28793,
+	 "name": "Apple iPhone 13 mini",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5slcwSefG_DIaIkxk1hytl_2q0jNgRov9BNKjfC_L5twGohrmhJ8&usqp=CAc",
+	 "memory": 128,
+	 "model": 1,
+	 "color": "Green"
+	},
+	{
+	 "id": "11",
+	 "price": 31399,
+	 "name": "Apple iPhone 13 mini",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5slcwSefG_DIaIkxk1hytl_2q0jNgRov9BNKjfC_L5twGohrmhJ8&usqp=CAc",
+	 "memory": 256,
+	 "model": 1,
+	 "color": "Green"
+	},
+	{
+	 "id": "12",
+	 "price": 35799,
+	 "name": "Apple iPhone 13 mini",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5slcwSefG_DIaIkxk1hytl_2q0jNgRov9BNKjfC_L5twGohrmhJ8&usqp=CAc",
+	 "memory": 512,
+	 "model": 1,
+	 "color": "Green"
+	},
+	{
+	 "id": "13",
+	 "price": 35699,
+	 "name": "Apple iPhone 12 Pro Max",
+	 "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRMneQyS0UVKTe7HVolr22Ww0dEupSvV2iqOJpHN04_ITWHhbgUqMCwGh_w-mKe&usqp=CAc",
+	 "memory": 128,
+	 "model": 2,
+	 "color": "Graphite"
+	},
+	{
+	 "id": "13",
+	 "price": 45399,
+	 "name": "Apple iPhone 12 Pro Max",
+	 "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRMneQyS0UVKTe7HVolr22Ww0dEupSvV2iqOJpHN04_ITWHhbgUqMCwGh_w-mKe&usqp=CAc",
+	 "memory": 256,
+	 "model": 2,
+	 "color": "Graphite"
+	},
+	{
+	 "id": "14",
+	 "price": 48399,
+	 "name": "Apple iPhone 12 Pro Max",
+	 "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRMneQyS0UVKTe7HVolr22Ww0dEupSvV2iqOJpHN04_ITWHhbgUqMCwGh_w-mKe&usqp=CAc",
+	 "memory": 512,
+	 "model": 2,
+	 "color": "Graphite"
+	},
+	{
+	 "id": "14",
+	 "price": 36999,
+	 "name": "Apple iPhone 12 Pro",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT7ddhdltzwhHfogVAipnQIqWjz51a0RINInxOgM1G-l5vG5_1COw&usqp=CAc",
+	 "memory": 128,
+	 "model": 2,
+	 "color": "Blue"
+	},
+	{
+	 "id": "15",
+	 "price": 38499,
+	 "name": "Apple iPhone 12 Pro",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT7ddhdltzwhHfogVAipnQIqWjz51a0RINInxOgM1G-l5vG5_1COw&usqp=CAc",
+	 "memory": 256,
+	 "model": 2,
+	 "color": "Blue"
+	},
+	{
+	 "id": "16",
+	 "price": 39399,
+	 "name": "Apple iPhone 12 Pro",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT7ddhdltzwhHfogVAipnQIqWjz51a0RINInxOgM1G-l5vG5_1COw&usqp=CAc",
+	 "memory": 512,
+	 "model": 2,
+	 "color": "Blue"
+	},
+	{
+	 "id": "17",
+	 "price": 26999,
+	 "name": "Apple iPhone 12",
+	 "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdIyzOasA_F_oFW9P08jMTATnkeWIDQ4lsn6mLXgYenvu6bRjXd13AVxfm_SF2fA&usqp=CAc",
+	 "memory": 64,
+	 "model": 2,
+	 "color": "Blue"
+	},
+	{
+	 "id": "18",
+	 "price": 27999,
+	 "name": "Apple iPhone 12",
+	 "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdIyzOasA_F_oFW9P08jMTATnkeWIDQ4lsn6mLXgYenvu6bRjXd13AVxfm_SF2fA&usqp=CAc",
+	 "memory": 128,
+	 "model": 2,
+	 "color": "Blue"
+	},
+	{
+	 "id": "19",
+	 "price": 31999,
+	 "name": "Apple iPhone 12",
+	 "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdIyzOasA_F_oFW9P08jMTATnkeWIDQ4lsn6mLXgYenvu6bRjXd13AVxfm_SF2fA&usqp=CAc",
+	 "memory": 256,
+	 "model": 2,
+	 "color": "Blue"
+	},
+	{
+	 "id": "20",
+	 "price": 22499,
+	 "name": "Apple iPhone 12 mini",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXgvwB6KXy20k1lqb8et9nSvD1E-8MipPezSqULRCAuschFFRQxCTGkY43p-28&usqp=CAc",
+	 "memory": 128,
+	 "model": 2,
+	 "color": "Black"
+	},
+	{
+	 "id": "21",
+	 "price": 24999,
+	 "name": "Apple iPhone 12 mini",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXgvwB6KXy20k1lqb8et9nSvD1E-8MipPezSqULRCAuschFFRQxCTGkY43p-28&usqp=CAc",
+	 "memory": 256,
+	 "model": 2,
+	 "color": "Black"
+	},
+	{
+	 "id": "22",
+	 "price": 28999,
+	 "name": "Apple iPhone 12 mini",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXgvwB6KXy20k1lqb8et9nSvD1E-8MipPezSqULRCAuschFFRQxCTGkY43p-28&usqp=CAc",
+	 "memory": 512,
+	 "model": 2,
+	 "color": "Black"
+	},
+	{
+	 "id": "23",
+	 "price": 24499,
+	 "name": "Apple iPhone 11 Pro Max",
+	 "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFbvMQuRLH3ShJOaHoupsh12Xa0w6SFaasn5lRsG3bfoWPIZOu3pTQgrd_CRyl3cJCmtYrq0Z42A&usqp=CAc",
+	 "memory": 64,
+	 "model": 3,
+	 "color": "Black"
+	},
+	{
+	 "id": "24",
+	 "price": 27999,
+	 "name": "Apple iPhone 11 Pro Max",
+	 "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFbvMQuRLH3ShJOaHoupsh12Xa0w6SFaasn5lRsG3bfoWPIZOu3pTQgrd_CRyl3cJCmtYrq0Z42A&usqp=CAc",
+	 "memory": 128,
+	 "model": 3,
+	 "color": "Black"
+	},
+	{
+	 "id": "25",
+	 "price": 30999,
+	 "name": "Apple iPhone 11 Pro Max",
+	 "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFbvMQuRLH3ShJOaHoupsh12Xa0w6SFaasn5lRsG3bfoWPIZOu3pTQgrd_CRyl3cJCmtYrq0Z42A&usqp=CAc",
+	 "memory": 256,
+	 "model": 3,
+	 "color": "Black"
+	},
+	{
+	 "id": "26",
+	 "price": 23999,
+	 "name": "Apple iPhone 11 Pro",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXgvwB6KXy20k1lqb8et9nSvD1E-8MipPezSqULRCAuschFFRQxCTGkY43p-28&usqp=CAc",
+	 "memory": 64,
+	 "model": 3,
+	 "color": "Black"
+	},
+	{
+	 "id": "27",
+	 "price": 25499,
+	 "name": "Apple iPhone 11 Pro",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXgvwB6KXy20k1lqb8et9nSvD1E-8MipPezSqULRCAuschFFRQxCTGkY43p-28&usqp=CAc",
+	 "memory": 128,
+	 "model": 3,
+	 "color": "Black"
+	},
+	{
+	 "id": "28",
+	 "price": 28999,
+	 "name": "Apple iPhone 11 Pro",
+	 "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXgvwB6KXy20k1lqb8et9nSvD1E-8MipPezSqULRCAuschFFRQxCTGkY43p-28&usqp=CAc",
+	 "memory": 256,
+	 "model": 3,
+	 "color": "Black"
+	},
+	{
+	 "id": "29",
+	 "price": 20384,
+	 "name": "Apple iPhone 11",
+	 "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSJ-iGRy-oO7wTgxVl1-kSu74VfhUMJ8KqZy_mumngPKXRpol3Dr_aotV-39ecOHg&usqp=CAc",
+	 "memory": 64,
+	 "model": 3,
+	 "color": "Red"
+	},
+	{
+	 "id": "29",
+	 "price": 22999,
+	 "name": "Apple iPhone 11",
+	 "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSJ-iGRy-oO7wTgxVl1-kSu74VfhUMJ8KqZy_mumngPKXRpol3Dr_aotV-39ecOHg&usqp=CAc",
+	 "memory": 128,
+	 "model": 3,
+	 "color": "Red"
+	},
+	{
+	 "id": "29",
+	 "price": 25399,
+	 "name": "Apple iPhone 11",
+	 "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSJ-iGRy-oO7wTgxVl1-kSu74VfhUMJ8KqZy_mumngPKXRpol3Dr_aotV-39ecOHg&usqp=CAc",
+	 "memory": 256,
+	 "model": 3,
+	 "color": "Red"
+	}
+ ]
